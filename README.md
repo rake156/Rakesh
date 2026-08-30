@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rakesh156/Rakesh/blob/main/Black%20and%20White%20Modern%20Business%20Contact%20Banner.png" width="800"/>
+![DevOps Banner](./Black%20and%20White%20Modern%20Business%20Contact%20Banner.png
 
 # 👋 Hi, I'm Rakesh
 
